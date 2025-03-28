@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/fld59xpcifx6oet0?svg=true)](https://ci.appveyor.com/project/Anton17848/containers)
-# containers
+# Выполнил обе задачи в одном репозитарии SET - в файлах (set.js и set.test.js) , a MAP в файлах (map.js и map.test.js)
 
 # Домашнее задание к лекции «Контейнеры»
 
